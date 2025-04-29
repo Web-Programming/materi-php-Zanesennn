@@ -15,6 +15,6 @@ Route::get('/Home', function () {
     ]);
 });
 
-Route::get('/berita/{id}/{judul}', function ($id,$judul) {
+Route::get('/berita/{id}/{judul?}', function ($id,$judul= null) {
     return view('berita',['id'=> $id,'judul' => $judul]);
 });
