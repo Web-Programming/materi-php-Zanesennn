@@ -1,3 +1,3 @@
 <div>
-    <!-- The best way to take care of the future is to take care of the present moment. - Thich Nhat Hanh -->
+    <!-- Happiness is not something readymade. It comes from your own actions. - Dalai Lama -->
 </div>
